@@ -4,4 +4,4 @@
 
 저는 **시스템 개발** 🛠️, **웹 프로그래밍** 🌐, **게임 개발** 🎮,
 **서비스 기획** 💡에 관심을 두고 다양한 프로젝트에 참여해 온 **개발자**입니다.  
-[활동 사진 모음]https://eminent-carrot-e9d.notion.site/17a51bc8e7df8024af80e7d1891518dd?pvs=4
+[활동 한눈에 보기(https://eminent-carrot-e9d.notion.site/17a51bc8e7df8024af80e7d1891518dd?pvs=4)
