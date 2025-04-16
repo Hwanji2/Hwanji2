@@ -1,4 +1,13 @@
-### 안녕하세요! Hwanji2의 깃허브 프로필에 오신 것을 환영합니다
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Hwanji2&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Hwanji2"
+    width="600"
+    height="120"
+  />
+</a>
+  
 
 # [프로젝트 아카이브🌐](https://hwanji2.github.io/site/)
 
