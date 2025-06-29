@@ -8,5 +8,5 @@
 />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwanji2&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwanji2&layout=compact&theme=default)
 
