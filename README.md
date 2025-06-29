@@ -8,5 +8,6 @@
 />
 </a>
 
-
+![Hwanji2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hwanji2&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwanji2&layout=compact&theme=radical)
 
