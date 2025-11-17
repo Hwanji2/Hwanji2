@@ -7,7 +7,7 @@
 새로운 경험을 접하기 쉽게 만들었을 때 큰 보람을 느낍니다.<br>
 기술과 예술에 모두 흥미가 있어, 다방면으로 문제를 바라보고 해결하는 것을 좋아합니다.<br>
 덕분에 개발•기획을 함께 다루는 방향으로 게임 개발, 앱 개발 등에서 경험을 쌓아가고 있어요.<br><br>
-프로젝트를 진행할 때는 항상 장기적으로 확장될 수 있는 흐름을 고민하며, 핵심과 우선순위를 찾는 과정에 특히 관심이 많습니다.<br>
+프로젝트에서 항상 장기적으로 확장될 수 있는 흐름을 고민하며, 핵심과 우선순위를 찾는 과정에 특히 관심이 많습니다.<br>
 앞으로도 배우며 새로운 가능성과 편안한 경험을 제시할 수 있는 개발자이자 기획자로 성장하는 것이 목표입니다.<br>
 
 <div align="left"> <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Tech Stacks </h3> <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
